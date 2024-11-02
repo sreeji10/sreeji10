@@ -29,8 +29,7 @@ This is Sreejith, software developer with 9+ years of industry experience curren
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
-
-![Sreejith's Github Stats](https://github-readme-stats.vercel.app/api?username=sreeji10&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeji10)](https://github.com/anuraghazra/github-readme-stats)
+![Sreejith's Github Stats](https://github-readme-stats.vercel.app/api?username=sreeji10&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeji10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=sreeji10&label=PROFILE+VIEWS)
