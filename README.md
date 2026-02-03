@@ -1,6 +1,6 @@
 ## Hello! <img src="https://raw.githubusercontent.com/erdkse/erdkse/main/wave.gif" width="30px">
 
-This is Sreejith, software developer with 9+ years of industry experience currently specializing in Python, Microservices, AI solutions and DevOps.
+This is Sreejith, software developer with 10+ years of industry experience currently specializing in Python, Microservices, AI solutions and DevOps.
 
 <a href="www.linkedin.com/in/sreejith-s-10"><img src="https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/sreejith-s-10/"/></a>
 <a href="https://airbeeps.com"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logoColor=white&logo=google-chrome&link=https://airbeeps.com/"/></a>
